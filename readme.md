@@ -18,7 +18,7 @@ There are 3 branches:
 
 ## How to start
 
-- open the index.html in the browser 
+- open the index.html in the browser and follow the instructions from the landing workshop
 
 <br>
 <br>
